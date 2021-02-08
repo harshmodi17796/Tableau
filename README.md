@@ -42,23 +42,44 @@
 
 ##### Sample excel sheets of task 4 have been shown below:
 <p float="left">
-  <img src="/Tableau_images/Image_7.png" width="45%" height= "45%" alt= "Sample_Dataset" />
-  <img src="/Tableau_images/Image_8.png" width="45%" height= "45%" alt= "Results" />
+  <img src="/Tableau_images/Image_7.png" width="80%" height= "80%" alt= "Sample_Dataset" />
+  <img src="/Tableau_images/Image_8.png" width="80%" height= "80%" alt= "Results" />
 </p>
 
 #### Result:
 <p float="left">
-  <img src="/Tableau_images/Image_9.png" width="80%" height= "80%" alt= "Results" />
+  <img src="/Tableau_images/Image_9.png" width="100%" height= "100%" alt= "Results" />
 </p>
 
 #### Task 5: Evaluate the performance of each department based on its sales target by creating dual axis chart.            Dataset:  AmazingMartEU2.xlsx
+#### Approach:    
+- 	Use Data Blending instead of joining excel sheets due to different graduality or different type of data sources.
 ##### Sample from dataset after inner joint with two excel sheets for the task 5 have been shown below:
 <p float="left">
-  <img src="/Tableau_images/Image_10.png" width="65%" height= "90%" alt= "Sample_Dataset" />
-  <img src="/Tableau_images/Image_11.png" width="20%" height= "20%" alt= "Results" />
+  <img src="/Tableau_images/Image_10.png" width="100%" height= "100%" alt= "Sample_Dataset" />
+  <img src="/Tableau_images/Image_11.png" width="30%" height= "30%" alt= "Results" />
 </p>
 
 #### Result:
 <p float="left">
-  <img src="/Tableau_images/Image_12.png" width="80%" height= "80%" alt= "Results" />
+  <img src="/Tableau_images/Image_12.png" width="100%" height= "100%" alt= "Results" />
 </p>
+
+#### Task 6: Analyse the customers based on region, age, gender, bank balance and job class, using dummy dataset of the bank and create Storyline.           Dataset:  UK-Bank-Customers.csv
+#### Approach:    
+1. Set Geographical Roles
+2. Convert Gender proportion in to percent using quick table calculation
+3. Create bins for age distributions using parameters
+4. Create bin for balance distributions using parameters
+
+##### Sample from dataset 6 have been shown below:
+<p float="left">
+  <img src="/Tableau_images/Image_13.png" width="70%" height= "70%" alt= "Sample_Dataset" />
+</p>
+
+#### Result:
+<p float="left">
+  <img src="/Tableau_images/Image_14.png" width="100%" height= "100%" alt= "Results" />
+</p>
+
+
