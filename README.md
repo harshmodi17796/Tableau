@@ -45,7 +45,8 @@
   <img src="/Tableau_images/Image_7.png" width="35%" height= "35%" alt= "Sample_Dataset" />
   <img src="/Tableau_images/Image_8.png" width="45%" height= "45%" alt= "Results" />
 </p>
+
 #### Result:
 <p float="left">
-  <img src="/Tableau_images/Image_8.png" width="70%" height= "70%" alt= "Results" />
+  <img src="/Tableau_images/Image_9.png" width="80%" height= "80%" alt= "Results" />
 </p>
