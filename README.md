@@ -13,7 +13,7 @@
 - At last, you can see the results.
 
 #### Task 1: Find the most profitable and less profitable states.              Dataset: SuperStoreUS_2015.xlsx
-##### Sample information from the dataset, which is used to perform the task is shown below:
+##### Sample dataset and result have been shown below:
 <p float="left">
   <img src="/Tableau_images/Image_1.png" width="35%" height= "35%" alt= "Sample_Dataset" />
   <img src="/Tableau_images/Image_2.png" width="50%" height= "50%" alt= "Results" />
