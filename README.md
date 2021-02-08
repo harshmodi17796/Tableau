@@ -12,11 +12,9 @@
 - Afterward, I will discuss about the approaches, by which I have create the plots and dashboards.All the approaches have been performed in Tableau Software only.
 - At last, you can see the results.
 
-#### Task 1:
-##### Find the most profitable and less profitable states.
-#### Dataset: 
-##### SuperStoreUS_2015.xlsx
+#### Task 1: Find the most profitable and less profitable states.
+#### Dataset: SuperStoreUS_2015.xlsx
 ##### Sample information from the dataset, which is used to perform the task is shown below:
-<p float="left">
+<p float="center">
   <img src="/Tableau_images/Image_1.png" width="40%" height= "70%" alt= "Sample_Dataset" />
 </p>
