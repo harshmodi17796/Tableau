@@ -18,5 +18,5 @@
 ##### SuperStoreUS_2015.xlsx
 ##### Sample information from the dataset, which is used to perform the task is shown below:
 <p float="left">
-  <img src="F:/GitHub/Project_Tableau/Tableau_images/Image_1.png" width="40%" height= "70%" alt= "Sample_Dataset" />
+  <img src="/Tableau_images/Image_1.png" width="40%" height= "70%" alt= "Sample_Dataset" />
 </p>
