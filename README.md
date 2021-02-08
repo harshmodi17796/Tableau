@@ -42,8 +42,8 @@
 
 ##### Sample excel sheets of task 4 have been shown below:
 <p float="left">
-  <img src="/Tableau_images/Image_7.png" width="60%" height= "60%" alt= "Sample_Dataset" />
-  <img src="/Tableau_images/Image_8.png" width="60%" height= "60%" alt= "Results" />
+  <img src="/Tableau_images/Image_7.png" width="80%" height= "80%" alt= "Sample_Dataset" />
+  <img src="/Tableau_images/Image_8.png" width="80%" height= "80%" alt= "Results" />
 </p>
 
 #### Result:
