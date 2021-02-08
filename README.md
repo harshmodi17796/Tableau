@@ -42,8 +42,8 @@
 
 ##### Sample excel sheets of task 4 have been shown below:
 <p float="left">
-  <img src="/Tableau_images/Image_7.png" width="45%" height= "45%" alt= "Sample_Dataset" />
-  <img src="/Tableau_images/Image_8.png" width="45%" height= "45%" alt= "Results" />
+  <img src="/Tableau_images/Image_7.png" width="60%" height= "60%" alt= "Sample_Dataset" />
+  <img src="/Tableau_images/Image_8.png" width="60%" height= "60%" alt= "Results" />
 </p>
 
 #### Result:
@@ -72,7 +72,7 @@
 3. Create bins for age distributions using parameters
 4. Create bin for balance distributions using parameters
 
-##### Sample from dataset 5 have been shown below:
+##### Sample from dataset 6 have been shown below:
 <p float="left">
   <img src="/Tableau_images/Image_13.png" width="70%" height= "70%" alt= "Sample_Dataset" />
 </p>
