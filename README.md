@@ -2,7 +2,7 @@
 
 ### Welcome to the Tableau Skill Set..!
 
-##### Here, You can find about the content which I have learnt in the Course, namely,’ Tableau 2020 A-Z: Hands-On Tableau Training for Data Science’ on Udemy, created by Kirill Eremenko. 
+##### Here, You can find about the Tableau skills, which I have learnt in the Course, namely,’ Tableau 2020 A-Z: Hands-On Tableau Training for Data Science’ on Udemy, created by Kirill Eremenko. 
 ##### All the dataset you can find on the following link: https://www.artofvisualization.com/pages/tableau
 
 ##### The content will be presented in following manner : 
