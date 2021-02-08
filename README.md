@@ -8,8 +8,8 @@
 ##### The content will be presented in following manner : 
 - At first, I will explain about the task.
 - After that, I will show you the file name. Please pay attention on the file type also.
-- For the better understanding, I have shown the sample of that dataset.
 - Afterward, I will discuss about the approaches, by which I have create the plots and dashboards.All the approaches have been performed in Tableau Software only.
+- For the better understanding, I have shown the sample of that dataset.
 - At last, you can see the results.
 
 #### Task 1: Find the most profitable and less profitable states.              Dataset: SuperStoreUS_2015.xlsx
@@ -31,6 +31,34 @@
 #### Task 3: Visualize Time Series Data at different Granularity with quick filters.            Dataset:  Long-Term-Unemployment-Statistics.xlsx
 ##### Sample dataset of task 3 and its result have been shown below:
 <p float="left">
-  <img src="/Tableau_images/Image_5.png" width="45%" height= "45%" alt= "Sample_Dataset" />
+  <img src="/Tableau_images/Image_5.png" width="40%" height= "40%" alt= "Sample_Dataset" />
   <img src="/Tableau_images/Image_6.png" width="45%" height= "45%" alt= "Results" />
+</p>
+
+#### Task 4: Make an interactive Dashboard, which should have profit margin at every state and the customer scatter plot based on profit vs sales.            Dataset: AmazingMartEU2.xlsx
+#### Approach:    
+1. Apply Inner join with key: Order ID
+2. Calculate field: Profit Margin = SUM(Profit) / SUM(Sale)
+
+##### Sample excel sheets of task 4 have been shown below:
+<p float="left">
+  <img src="/Tableau_images/Image_7.png" width="45%" height= "45%" alt= "Sample_Dataset" />
+  <img src="/Tableau_images/Image_8.png" width="45%" height= "45%" alt= "Results" />
+</p>
+
+#### Result:
+<p float="left">
+  <img src="/Tableau_images/Image_9.png" width="80%" height= "80%" alt= "Results" />
+</p>
+
+#### Task 5: Evaluate the performance of each department based on its sales target by creating dual axis chart.            Dataset:  AmazingMartEU2.xlsx
+##### Sample from dataset after inner joint with two excel sheets for the task 5 have been shown below:
+<p float="left">
+  <img src="/Tableau_images/Image_10.png" width="40%" height= "40%" alt= "Sample_Dataset" />
+  <img src="/Tableau_images/Image_11.png" width="45%" height= "45%" alt= "Results" />
+</p>
+
+#### Result:
+<p float="left">
+  <img src="/Tableau_images/Image_12.png" width="80%" height= "80%" alt= "Results" />
 </p>
