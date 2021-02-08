@@ -55,7 +55,7 @@
 ##### Sample from dataset after inner joint with two excel sheets for the task 5 have been shown below:
 <p float="left">
   <img src="/Tableau_images/Image_10.png" width="40%" height= "40%" alt= "Sample_Dataset" />
-  <img src="/Tableau_images/Image_11.png" width="45%" height= "45%" alt= "Results" />
+  <img src="/Tableau_images/Image_11.png" width="40%" height= "40%" alt= "Results" />
 </p>
 
 #### Result:
