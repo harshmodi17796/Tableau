@@ -42,11 +42,23 @@
 
 ##### Sample excel sheets of task 4 have been shown below:
 <p float="left">
-  <img src="/Tableau_images/Image_7.png" width="35%" height= "35%" alt= "Sample_Dataset" />
+  <img src="/Tableau_images/Image_7.png" width="45%" height= "45%" alt= "Sample_Dataset" />
   <img src="/Tableau_images/Image_8.png" width="45%" height= "45%" alt= "Results" />
 </p>
 
 #### Result:
 <p float="left">
   <img src="/Tableau_images/Image_9.png" width="80%" height= "80%" alt= "Results" />
+</p>
+
+#### Task 5: Evaluate the performance of each department based on its sales target by creating dual axis chart.            Dataset:  AmazingMartEU2.xlsx
+##### Sample from dataset after inner joint with two excel sheets for the task 5 have been shown below:
+<p float="left">
+  <img src="/Tableau_images/Image_10.png" width="40%" height= "40%" alt= "Sample_Dataset" />
+  <img src="/Tableau_images/Image_11.png" width="45%" height= "45%" alt= "Results" />
+</p>
+
+#### Result:
+<p float="left">
+  <img src="/Tableau_images/Image_12.png" width="80%" height= "80%" alt= "Results" />
 </p>
