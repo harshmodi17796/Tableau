@@ -33,14 +33,18 @@
 
 #### Result:
 <p float="left">
-  <img src="/Tableau_images/Image_4.png" width="80%" height= "80%" alt= "Results" />
+  <img src="/Tableau_images/Image_4.png" width="100%" height= "100%" alt= "Results" />
 </p>
 
 #### Task 3: Visualize Time Series Data at different Granularity with quick filters.            Dataset:  Long-Term-Unemployment-Statistics.xlsx
-##### Sample dataset of task 3 and its result have been shown below:
+##### Sample dataset of task 3 has been shown below:
 <p float="left">
-  <img src="/Tableau_images/Image_5.png" width="40%" height= "40%" alt= "Sample_Dataset" />
-  <img src="/Tableau_images/Image_6.png" width="45%" height= "45%" alt= "Results" />
+  <img src="/Tableau_images/Image_5.png" width="50%" height= "50%" alt= "Sample_Dataset" />
+</p>
+
+#### Result:
+<p float="left">
+  <img src="/Tableau_images/Image_6.png" width="100%" height= "100%" alt= "Results" />
 </p>
 
 #### Task 4: Make an interactive Dashboard, which should have profit margin at every state and the customer scatter plot based on profit vs sales.            Dataset: AmazingMartEU2.xlsx
