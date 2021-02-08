@@ -48,7 +48,7 @@
 
 #### Result:
 <p float="left">
-  <img src="/Tableau_images/Image_9.png" width="80%" height= "80%" alt= "Results" />
+  <img src="/Tableau_images/Image_9.png" width="100%" height= "100%" alt= "Results" />
 </p>
 
 #### Task 5: Evaluate the performance of each department based on its sales target by creating dual axis chart.            Dataset:  AmazingMartEU2.xlsx
@@ -62,7 +62,7 @@
 
 #### Result:
 <p float="left">
-  <img src="/Tableau_images/Image_12.png" width="80%" height= "80%" alt= "Results" />
+  <img src="/Tableau_images/Image_12.png" width="100%" height= "100%" alt= "Results" />
 </p>
 
 #### Task 6: Analyse the customers based on region, age, gender, bank balance and job class, using dummy dataset of the bank and create Storyline.           Dataset:  UK-Bank-Customers.csv
@@ -79,7 +79,7 @@
 
 #### Result:
 <p float="left">
-  <img src="/Tableau_images/Image_14.png" width="80%" height= "80%" alt= "Results" />
+  <img src="/Tableau_images/Image_14.png" width="100%" height= "100%" alt= "Results" />
 </p>
 
 
