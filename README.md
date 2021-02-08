@@ -31,6 +31,6 @@
 #### Task 3: Visualize Time Series Data at different Granularity with quick filters.            Dataset:  Long-Term-Unemployment-Statistics.xlsx
 ##### Sample dataset of task 3 and its result have been shown below:
 <p float="left">
-  <img src="/Tableau_images/Image_5.png" width="40%" height= "40%" alt= "Sample_Dataset" />
+  <img src="/Tableau_images/Image_5.png" width="35%" height= "35%" alt= "Sample_Dataset" />
   <img src="/Tableau_images/Image_6.png" width="45%" height= "45%" alt= "Results" />
 </p>
