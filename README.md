@@ -19,6 +19,10 @@
   <img src="/Tableau_images/Image_2.png" width="50%" height= "50%" alt= "Results" />
 </p>
 
+<p float="left">
+  <img src="/Tableau_images/Image_2.png" width="80%" height= "80%" alt= "Results" />
+</p>
+
 #### Task 2: It is the end of Financial Year and that means time for annual bonuses! The store operates in three regions and only the top-performing employee in each region qualifies for a bonus. Find out which three employees are eligible to get bonuses for this year. Employees are measured on total sales ($$).           Dataset:  OfficeSupplies.csv / OfficeSupplies.xlsx
 #### Approach:    
 - Create calculate field : Total sales = Units * Unit Price
