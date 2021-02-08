@@ -5,7 +5,7 @@
 ##### Here, You can find about the content which I have learnt in the Course, namely,’ Tableau 2020 A-Z: Hands-On Tableau Training for Data Science’ on Udemy, created by Kirill Eremenko. 
 ##### All the dataset you can find on the following link: https://www.artofvisualization.com/pages/tableau
 
-##### The work has been explained in following manner : 
+##### The content will be presented in following manner : 
 - At first, I will explain about the task.
 - After that, I will show you the file name. Please pay attention on the file type also.
 - For the better understanding, I have shown the sample of that dataset.
